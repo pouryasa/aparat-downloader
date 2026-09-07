@@ -1,0 +1,6 @@
+{
+  "name": "Aparat Playlist Downloader",
+  "description": "Extract and download 720p quality video links from Aparat playlists",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
